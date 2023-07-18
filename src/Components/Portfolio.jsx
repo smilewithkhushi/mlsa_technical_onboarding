@@ -44,7 +44,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created with React. This site is a great way to showcase your work and experience.",
-    url: "hhttps://github.com/smilewithkhushi/Portfolio-Khushi-Panwar",
+    url: "https://github.com/smilewithkhushi/Portfolio-Khushi-Panwar",
   },
   {
     title: "Contact Manager Application",
